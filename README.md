@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Afrizal Bayu  
+# 👋 Hi, I’m Afrizal Bayu Satrio  
 
 ## 🧑‍💻 About Me  
 I’m a **Database Engineer & Backend Developer** who specializes in building scalable and reliable systems. My main focus is designing strong **database architectures** and implementing **REST APIs** to support microservices ecosystems.  
