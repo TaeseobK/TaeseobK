@@ -12,7 +12,7 @@ Currently working on a **Microservices System** serving Finance, HR, and Sales d
 - **HR Module for Microservices**  
   Designing master data and transactional HR entities with proper relational models.
   
-- **FIN Module for Microservices**
+- **FIN Module for Microservices**  
   Designing master data and transactional FIN entities with proper relational models.
 
 - **Microservices Integration**  
