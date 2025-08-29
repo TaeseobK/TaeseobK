@@ -10,7 +10,10 @@ Currently working on a **Microservices System** serving Finance, HR, and Sales d
 
 ## 🚀 Projects & Work Areas  
 - **HR Module for Microservices**  
-  Designing master data (Company, Branch, Department, Division, Position) and transactional HR entities with proper relational models.  
+  Designing master data and transactional HR entities with proper relational models.
+  
+- **FIN Module for Microservices**
+  Designing master data and transactional FIN entities with proper relational models.
 
 - **Microservices Integration**  
   Implementing API Gateway with DRF to handle requests across multiple services.  
