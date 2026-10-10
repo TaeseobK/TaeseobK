@@ -22,11 +22,12 @@ I design and build the ERP microservice platform of a pharmaceutical group: Djan
 
 ## Public repositories
 
+- [graphql-gateway-demo](https://github.com/TaeseobK/graphql-gateway-demo): FastAPI + Strawberry GraphQL gateway with per-field permissions, Redis Streams event fan-out, tests and CI
 - [auth_service](https://github.com/TaeseobK/auth_service): token-based authentication microservice (Django, DRF, OpenAPI docs)
 - [hr_service](https://github.com/TaeseobK/hr_service): HR data service with multi-database routing
 - [fin_service](https://github.com/TaeseobK/fin_service): finance data service with multi-database routing
 
-These are early, simplified versions of the service pattern. My production work at PT Mazta Farma is in private repositories.
+The three service repos are early, simplified versions of the service pattern. My production work at PT Mazta Farma is in private repositories.
 
 ## Background
 
