@@ -1,43 +1,38 @@
-# 👋 Hi, I’m Afrizal Bayu Satrio  
+# Afrizal Bayu Satrio
 
-## 🧑‍💻 About Me  
-I’m a **Database Engineer & Backend Developer** who specializes in building scalable and reliable systems. My main focus is designing strong **database architectures** and implementing **REST APIs** to support microservices ecosystems.  
+**Backend & Platform Engineer (Python)** at PT Mazta Farma, based in Tangerang Regency, Indonesia.
 
-Currently working on a **Microservices System** serving Finance, HR, and Sales departments — focusing on:  
-- 🗄️ **Database engineering** (PostgreSQL, MySQL)  
-- 🔌 **REST API development** with Django Rest Framework (DRF)  
-- 🌐 **API Gateway & service integration**  
+I design and build the ERP microservice platform of a pharmaceutical group: Django/DRF services behind FastAPI + GraphQL gateways, event-driven pipelines, and containerized infrastructure. I care about security, data integrity and uptime.
 
-## 🚀 Projects & Work Areas  
-- **HR Module for Microservices**  
-  Designing master data and transactional HR entities with proper relational models.
-  
-- **FIN Module for Microservices**  
-  Designing master data and transactional FIN entities with proper relational models.
+## What I work on
 
-- **Microservices Integration**  
-  Implementing API Gateway with DRF to handle requests across multiple services.  
+- **Backend services:** Django and Django REST Framework services, with permission enforcement centralized in FastAPI + Strawberry GraphQL gateways
+- **Messaging and data:** PostgreSQL, Redis (Sentinel, Streams, Pub/Sub), Apache Kafka, Celery
+- **Infrastructure:** Podman on Proxmox, moving to Kubernetes (k3s) with CloudNativePG, Nginx, Tailscale
+- **Engineering practice:** security and performance audits, production debugging, root-cause analysis, system design
 
-- **Linux System Customization**  
-  Daily work on Ubuntu (24.04), optimizing desktop environment, GDM, GRUB, and workflows for development.  
+## Tech stack
 
-## 🛠️ Tech Stack  
-- **Languages:** Python, SQL (PostgreSQL, MySQL)  
-- **Frameworks:** Django, Django Rest Framework  
-- **DevOps / Tools:** Git, Docker, Ubuntu/Linux  
-- **Specialties:** Database modeling, REST APIs, Microservices design  
+| Area | Tools |
+| --- | --- |
+| Languages | Python, SQL, JavaScript |
+| Backend | Django, DRF, FastAPI, GraphQL (Strawberry), REST |
+| Data | PostgreSQL, Redis, Kafka |
+| Infra | Podman, Kubernetes (k3s), Linux, Nginx, Tailscale |
 
-## 🎯 Goals  
-- Build a **production-grade microservices architecture**.  
-- Advance expertise in **database engineering & optimization**.  
-- Master **scalable REST API patterns** with Django Rest Framework.  
-- Grow as a **backend-focused engineer** while staying hands-on with Linux.  
+## Public repositories
 
-## 📫 Connect with Me  
-- GitHub: TaeseobK
-- LinkedIn: https://www.linkedin.com/in/afrizal-bayu-satrio-8bb976248
+- [auth_service](https://github.com/TaeseobK/auth_service): token-based authentication microservice (Django, DRF, OpenAPI docs)
+- [hr_service](https://github.com/TaeseobK/hr_service): HR data service with multi-database routing
+- [fin_service](https://github.com/TaeseobK/fin_service): finance data service with multi-database routing
+
+These are early, simplified versions of the service pattern. My production work at PT Mazta Farma is in private repositories.
+
+## Background
+
+Data analyst turned backend engineer. Currently studying for a Bachelor's degree in Data Science at Universitas Terbuka.
+
+## Contact
+
+- LinkedIn: [afrizal-bayu-satrio](https://www.linkedin.com/in/afrizal-bayu-satrio)
 - Email: bayuafrizal830@gmail.com
-
----
-
-⚡ *“Data is the backbone. APIs are the nerves. Together, they make systems alive.”* ⚡  
