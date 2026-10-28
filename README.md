@@ -2,7 +2,7 @@
   <img src="https://www.gitskins.com/api/section/hero?username=taeseobk&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F188411511%3Fu%3Dcd8eaf732b4e8e6d04377953868aaf3e57bfb180%26v%3D4" alt="taeseobk hero visual" />
 </p>
 
-<p align="center"><b>Afrizal Bayu Satrio</b> · Frontend or full-stack engineer<br/><sub>Backend &amp; Platform Engineer | Python, Django, GraphQL, PostgreSQL, Kafka, Kubernetes | Building ERP microservices at PT Mazta Farma</sub></p>
+<p align="center"><b>Afrizal Bayu Satrio</b> · Backend Engineer<br/><sub>Backend &amp; Platform Engineer | Python, Django, GraphQL, PostgreSQL, Kafka, Kubernetes | Building ERP microservices at PT Mazta Farma</sub></p>
 
 <p align="center"><a href="https://github.com/taeseobk">GitHub</a></p>
 
