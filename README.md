@@ -18,7 +18,6 @@
 - [fin_service](https://github.com/TaeseobK/fin_service) · ★ 0 — Service for storing and managing Finance data
 - [hr_service](https://github.com/TaeseobK/hr_service) · ★ 0 — Service for storing and managing HR based data
 - [graphql-gateway-demo](https://github.com/TaeseobK/graphql-gateway-demo) · ★ 0 — FastAPI + Strawberry GraphQL gateway demo: permissions at the gateway, Redis Streams event fan-out, 
-- [TaeseobK](https://github.com/TaeseobK/TaeseobK) · ★ 0
 - [mik_manufacture](https://github.com/TaeseobK/mik_manufacture) · ★ 0
 
 </details>
@@ -64,5 +63,3 @@
 </p>
 
 </details>
-
-<p align="center"><sub>Afrizal Bayu Satrio · Everything hub generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
