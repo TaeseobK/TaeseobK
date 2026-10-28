@@ -1,39 +1,68 @@
-# Afrizal Bayu Satrio
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=taeseobk&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F188411511%3Fu%3Dcd8eaf732b4e8e6d04377953868aaf3e57bfb180%26v%3D4" alt="taeseobk hero visual" />
+</p>
 
-**Backend & Platform Engineer (Python)** at PT Mazta Farma, based in Tangerang Regency, Indonesia.
+<p align="center"><b>Afrizal Bayu Satrio</b> · Frontend or full-stack engineer<br/><sub>Backend &amp; Platform Engineer | Python, Django, GraphQL, PostgreSQL, Kafka, Kubernetes | Building ERP microservices at PT Mazta Farma</sub></p>
 
-I design and build the ERP microservice platform of a pharmaceutical group: Django/DRF services behind FastAPI + GraphQL gateways, event-driven pipelines, and containerized infrastructure. I care about security, data integrity and uptime.
+<p align="center"><a href="https://github.com/taeseobk">GitHub</a></p>
 
-## What I work on
+<details open>
+<summary><b>📌 Top projects</b></summary>
+<br/>
 
-- **Backend services:** Django and Django REST Framework services, with permission enforcement centralized in FastAPI + Strawberry GraphQL gateways
-- **Messaging and data:** PostgreSQL, Redis (Sentinel, Streams, Pub/Sub), Apache Kafka, Celery
-- **Infrastructure:** Podman on Proxmox, moving to Kubernetes (k3s) with CloudNativePG, Nginx, Tailscale
-- **Engineering practice:** security and performance audits, production debugging, root-cause analysis, system design
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/projects?username=taeseobk&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F188411511%3Fu%3Dcd8eaf732b4e8e6d04377953868aaf3e57bfb180%26v%3D4" alt="taeseobk projects visual" />
+</p>
 
-## Tech stack
+- [auth_service](https://github.com/TaeseobK/auth_service) · ★ 0 — Service for authentications between services to services and frontend to services
+- [fin_service](https://github.com/TaeseobK/fin_service) · ★ 0 — Service for storing and managing Finance data
+- [hr_service](https://github.com/TaeseobK/hr_service) · ★ 0 — Service for storing and managing HR based data
+- [graphql-gateway-demo](https://github.com/TaeseobK/graphql-gateway-demo) · ★ 0 — FastAPI + Strawberry GraphQL gateway demo: permissions at the gateway, Redis Streams event fan-out, 
+- [TaeseobK](https://github.com/TaeseobK/TaeseobK) · ★ 0
+- [mik_manufacture](https://github.com/TaeseobK/mik_manufacture) · ★ 0
 
-| Area | Tools |
-| --- | --- |
-| Languages | Python, SQL, JavaScript |
-| Backend | Django, DRF, FastAPI, GraphQL (Strawberry), REST |
-| Data | PostgreSQL, Redis, Kafka |
-| Infra | Podman, Kubernetes (k3s), Linux, Nginx, Tailscale |
+</details>
 
-## Public repositories
+<details>
+<summary><b>🧰 Stack</b></summary>
+<br/>
 
-- [graphql-gateway-demo](https://github.com/TaeseobK/graphql-gateway-demo): FastAPI + Strawberry GraphQL gateway with per-field permissions, Redis Streams event fan-out, tests and CI
-- [auth_service](https://github.com/TaeseobK/auth_service): token-based authentication microservice (Django, DRF, OpenAPI docs)
-- [hr_service](https://github.com/TaeseobK/hr_service): HR data service with multi-database routing
-- [fin_service](https://github.com/TaeseobK/fin_service): finance data service with multi-database routing
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=taeseobk&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F188411511%3Fu%3Dcd8eaf732b4e8e6d04377953868aaf3e57bfb180%26v%3D4" alt="taeseobk stack visual" />
+</p>
 
-The three service repos are early, simplified versions of the service pattern. My production work at PT Mazta Farma is in private repositories.
+</details>
 
-## Background
+<details>
+<summary><b>📊 By the numbers</b></summary>
+<br/>
 
-Data analyst turned backend engineer. Currently studying for a Bachelor's degree in Data Science at Universitas Terbuka.
+<b>7</b> public repositories, <b>0</b> stars, <b>7,109</b> contributions in the last year, a longest streak of <b>29</b> days and <b>0</b> followers.
 
-## Contact
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=taeseobk&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F188411511%3Fu%3Dcd8eaf732b4e8e6d04377953868aaf3e57bfb180%26v%3D4" alt="taeseobk stats visual" />
+</p>
 
-- LinkedIn: [afrizal-bayu-satrio](https://www.linkedin.com/in/afrizal-bayu-satrio)
-- Email: bayuafrizal830@gmail.com
+</details>
+
+<details>
+<summary><b>🟩 Activity</b></summary>
+<br/>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=taeseobk&theme=neon" alt="taeseobk contribution activity" />
+</p>
+
+</details>
+
+<details>
+<summary><b>👋 Say hello</b></summary>
+<br/>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=taeseobk&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F188411511%3Fu%3Dcd8eaf732b4e8e6d04377953868aaf3e57bfb180%26v%3D4" alt="taeseobk social visual" />
+</p>
+
+</details>
+
+<p align="center"><sub>Afrizal Bayu Satrio · Everything hub generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
